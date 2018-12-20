@@ -1,6 +1,6 @@
 # Информация
 
-Страничка "team.metadata.*".
+Страничка [team.metadata.company](https://team.metadata.company/).
 
 ## Авторы
 
